@@ -1,7 +1,1 @@
-We employ a traditional doctrinal legal method (Rechtsdogmatik), specifically 
-focusing on the 'Teleologische Auslegung' (teleological interpretation) of 
-liability statutes. By analyzing the legislative intent behind the Swiss 
-Civil Code (ZGB) and the Code of Obligations (OR), we establish a 
-systematic basis for strict liability. However, our analysis is currently 
-limited to private law and does not extend to criminal responsibility 
-under the StGB.
+The literature has long debated the relationship between OR Art. 55 and ZGB Art. 2. Müller, 2021 argues that good faith principles constrain overly expansive readings. However, a Gegenansicht maintains that the functional role of corporate delegation requires a broader interpretation. Comparative discussion with European law also shows that analogous doctrines sometimes support a wider allocation of responsibility.

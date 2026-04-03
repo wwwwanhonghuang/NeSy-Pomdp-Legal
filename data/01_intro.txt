@@ -1,6 +1,1 @@
-This thesis investigates the liability of AI-driven autonomous systems under 
-the Swiss Code of Obligations (OR). As digital transformation accelerates, 
-the traditional framework of 'causality' in tort law faces unprecedented challenges. 
-We propose a novel interpretation of Art. 55 OR to address 'algorithmic agency'. 
-The research question is: To what extent can the 'G Geschäftsherrenhaftung' 
-be extended to autonomous software agents in a commercial setting?
+This thesis examines the liability of corporate organs under Swiss private law. The main question is whether OR Art. 55 provides a sufficient doctrinal basis for institutional responsibility in complex delegated structures. The discussion first clarifies the research question and then outlines the relevant doctrinal and judicial background. However, opposing views in the literature suggest that liability cannot be extended without a more cautious interpretive method.
