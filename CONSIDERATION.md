@@ -1,0 +1,1 @@
+I think the most of problem is that we now well identify the structure of arguments(主张） and arguments' （证据） relations. You know each arguments in the paper should has some evidence. When the agent see some sentence like a 主张。it should try to find full text somewhere to find where evidences for this is present (e.g., citation, experiment result, 通说观点等），and judge the 证据的强度，可靠性。

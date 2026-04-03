@@ -1,6 +1,4 @@
-numpy
-sentence-transformers
-scikit-learn
-pandas
 streamlit
-matplotlib
+sentence-transformers
+numpy
+pandas
